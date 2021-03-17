@@ -1,0 +1,6 @@
+framework module Pods_VieSureAssignment_VieSureAssignmentUITests {
+  umbrella header "Pods-VieSureAssignment-VieSureAssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+--trimwhitespace always
+--indent 2
+--indentcase true
+--wraparguments before-first
+--wrapparameters before-first
+--wrapcollections before-first
+--closingparen balanced
+--specifierorder public,override
+--header strip
+--maxwidth 120
+--funcattributes prev-line
+--typeattributes prev-line
+--beforemarks
+
+--enable redundantBreak, elseOnSameLine, duplicateImports, emptyBraces, isEmpty, redundantExtensionACL, redundantFileprivate, redundantGet
+--enable redundantLet, redundantReturn, todos, trailingCommas, andOperator, blankLinesAroundMark, blankLinesAtEndOfScope, blankLinesAtStartOfScope, blankLinesBetweenScopes
+--enable consecutiveBlankLines, consecutiveSpaces, enumNamespaces, fileHeader, hoistPatternLet, initCoderUnavailable, isEmpty, redundantBackticks
+--enable organizeDeclarations, redundantSelf, redundantInit, strongifiedSelf, spaceInsideBraces, spaceAroundOperators
+--enable trailingClosures, trailingSpace, typeSugar, wrap, wrapAttributes, wrapSwitchCases, preferKeyPath
+
+--disable unusedArguments, wrapMultilineStatementBraces 
+
+--exclude Pods, Libs, Generated, vendor

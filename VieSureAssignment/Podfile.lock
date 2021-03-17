@@ -1,0 +1,32 @@
+PODS:
+  - Mocker (2.5.2)
+  - Nimble (9.0.0)
+  - Quick (3.1.2)
+  - SnapshotTesting (1.8.2)
+  - SwiftFormat/CLI (0.47.12)
+
+DEPENDENCIES:
+  - Mocker
+  - Nimble
+  - Quick
+  - SnapshotTesting
+  - SwiftFormat/CLI
+
+SPEC REPOS:
+  trunk:
+    - Mocker
+    - Nimble
+    - Quick
+    - SnapshotTesting
+    - SwiftFormat
+
+SPEC CHECKSUMS:
+  Mocker: 304831b890144a47bd2858714041f7d4a304016d
+  Nimble: 3b4ec3fd40f1dc178058e0981107721c615643d8
+  Quick: 60f0ea3b8e0cfc0df3259a5c06a238ad8b3c46e0
+  SnapshotTesting: 38947050d13960d57a4a9c166fcf51bca7d56970
+  SwiftFormat: 68cac6de69aafb44b60ae49a919600966b0dcabe
+
+PODFILE CHECKSUM: a0a9899a0352886372e3fffe865282e80afd27d7
+
+COCOAPODS: 1.10.1
